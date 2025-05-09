@@ -1,0 +1,10 @@
+# Gradle build folders
+/build
+/.gradle
+
+# Local configuration
+/local.properties
+
+# IDE settings
+.idea/
+*.iml
