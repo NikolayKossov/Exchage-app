@@ -12,7 +12,7 @@ An Android application for currency conversion using the API.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/ExchangeApp.git
+   git clone https://github.com/NikolayKossov/ExchangeApp.git
    cd ExchangeApp
 2. Create a local.properties file in the root directory (if it doesn't exist) and add your API key:
 API_KEY=your_api_key_here
